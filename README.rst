@@ -16,13 +16,12 @@ config for the style.
 # How to use it
 ---------------
 
-1. Download the repo
-2. Copy it wherever or just into ``pelican/plugins/``
-3. Put ``pelican-advance-embed-tweet`` into plugin list of settings.
+1. Install the plugin with ``pip install pelican_advance_embed_tweet``
+2. Put ``pelican_advance_embed_tweet`` into plugin list of settings.
 
-   -  ``PLUGINS = ['pelican.plugins.pelican-advance-embed-tweet']``
+   -  ``PLUGINS = ['pelican_advance_embed_tweet']``
 
-4. Add your config into the ``pelicanconf.py``
+3. Add your config into the ``pelicanconf.py``
 
 Config
 ------
