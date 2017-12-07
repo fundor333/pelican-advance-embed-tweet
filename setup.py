@@ -13,7 +13,10 @@ with open('HISTORY.rst', 'r', 'utf-8') as f:
 
 setup(
     name="pelican_advance_embed_tweet",
-    packages=find_packages(),
+    packages=find_packages(
+        exclude=['tests', 'docs']
+    ),
+    short_description="Pelican Plugin for adding tweet into your blog",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     version=__version__,
