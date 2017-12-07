@@ -1,11 +1,6 @@
 Pelican plugin: Advance Embed Tweet
 ===================================
-.. image:: https://img.shields.io/pypi/l/pelican-advance-embed-tweet.svg
-.. image:: https://img.shields.io/pypi/wheel/pelican-advance-embed-tweet.svg
-.. image:: https://img.shields.io/pypi/format/pelican-advance-embed-tweet.svg
-.. image:: https://img.shields.io/pypi/pyversions/pelican-advance-embed-tweet.svg
-.. image:: https://img.shields.io/pypi/implementation/pelican-advance-embed-tweet.svg
-.. image:: https://img.shields.io/pypi/status/pelican-advance-embed-tweet.svg
+.. image:: https://img.shields.io/pypi/l/pelican-advance-embed-tweet.svg .. image:: https://img.shields.io/pypi/wheel/pelican-advance-embed-tweet.svg .. image:: https://img.shields.io/pypi/format/pelican-advance-embed-tweet.svg .. image:: https://img.shields.io/pypi/pyversions/pelican-advance-embed-tweet.svg .. image:: https://img.shields.io/pypi/implementation/pelican-advance-embed-tweet.svg .. image:: https://img.shields.io/pypi/status/pelican-advance-embed-tweet.svg
 
 Embedding tweets into your Pelican blog posts. This repo is an advance
 version of the plugin from
